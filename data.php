@@ -53,5 +53,6 @@
 		//$content1 = $obj->remove_link($content);
 		// $content = $obj->remove_first_element($content,'p');
 		// $content = $obj->remove_last_element($content,'p');
+		//echo
 		
 ?>
